@@ -1,0 +1,7 @@
+c:\users\jelmer\source\repos\TCPListener\TCPListener\bin\Debug\TCPListener.exe.config
+c:\users\jelmer\source\repos\TCPListener\TCPListener\bin\Debug\TCPListener.exe
+c:\users\jelmer\source\repos\TCPListener\TCPListener\bin\Debug\TCPListener.pdb
+c:\users\jelmer\source\repos\TCPListener\TCPListener\obj\Debug\TCPListener.csprojResolveAssemblyReference.cache
+c:\users\jelmer\source\repos\TCPListener\TCPListener\obj\Debug\TCPListener.csproj.CoreCompileInputs.cache
+c:\users\jelmer\source\repos\TCPListener\TCPListener\obj\Debug\TCPListener.exe
+c:\users\jelmer\source\repos\TCPListener\TCPListener\obj\Debug\TCPListener.pdb
